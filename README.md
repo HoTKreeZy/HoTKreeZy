@@ -1,19 +1,44 @@
-# Hi, my name's Ludovic 😃
+# Hi there, I'm HoTKreeZy! 👋
 
-I am currently learning web development.
+![Profile Views](https://komarev.com/ghpvc/?username=HoTKreeZy&color=blue)
 
-## About me
+## About Me
 
-I'm a 26 years old French guy.
+- 🌱 I’m currently learning to code.
+- ⚡ Fun fact: I love gaming and listening musics in my free time.
 
-Love playing video games from my very young age and really interested in new
-technologies since my 15's.
+## Skills
 
-I always wanted to learn programming but never did since now.
+*To be determined*
 
-I like animals and my favorite one is 🐺
+<!-- - **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Django, Spring
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Databases:** MySQL, PostgreSQL, MongoDB -->
 
-<!---
-Xulthor/Xulthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+
+*Not yet*
+<!-- Here are a few projects I've worked on:
+
+- [Project 1](https://github.com/HoTKreeZy/project1): A brief description of Project 1.
+- [Project 2](https://github.com/HoTKreeZy/project2): A brief description of Project 2.
+- [Project 3](https://github.com/HoTKreeZy/project3): A brief description of Project 3. -->
+
+## GitHub Stats
+
+![HoTKreeZy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoTKreeZy&show_icons=true&theme=dark)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoTKreeZy&layout=compact&theme=dark)
+
+## Connect with Me
+
+*Not active yet*
+
+<!-- - [LinkedIn](https://www.linkedin.com/in/hotkreezy) -->
+<!-- - [Twitter](https://twitter.com/HoTKreeZy) -->
+<!-- - [Twitch](https://www.twitch.tv/HoTKreeZy) -->
+
+Feel free to reach out if you want to collaborate on any projects or just chat about technology and gaming!
